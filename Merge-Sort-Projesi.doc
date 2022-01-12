@@ -1,0 +1,9 @@
+[16,21,11,8,12,22] -> Merge Sort
+
+1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+Bu sorunun cevabı "Merge Sort Projesi.png" de yer almaktadır.
+
+2. Big-O gösterimini yazınız.
+
+Big-O gösterimi: O(nlogn)
